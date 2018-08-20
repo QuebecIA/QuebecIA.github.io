@@ -399,7 +399,7 @@ a.tag.article-tag {
 
 code, pre {
   font-size: 0.85rem;
-  font-family: "Source Code Pro"; }
+  font-family: "Source Code Pro", monospace, "Microsoft YaHei"; }
 
 figure.highlight {
   padding: 0;
@@ -426,7 +426,7 @@ figure.highlight {
     font-size: .8rem; }
     figure.highlight figcaption span {
       font-weight: 500;
-      font-family: "Source Code Pro"; }
+      font-family: "Source Code Pro", monospace, "Microsoft YaHei"; }
     figure.highlight figcaption a {
       float: right;
       color: #9a9a9a; }
